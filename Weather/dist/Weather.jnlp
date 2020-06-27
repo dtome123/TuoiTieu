@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Weather.jnlp">
+  <information>
+    <title>Weather</title>
+    <vendor>Admin</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Weather.jar" size="14275" download="eager" />
+    <jar href="lib\java-json.jar" size="84697" download="eager" />
+    <jar href="lib\library-2.0.1.jar" size="96580" download="eager" />
+    <jar href="lib\mssql-jdbc-8.2.2.jre8.jar" size="1267297" download="eager" />
+    <jar href="lib\okhttp-3.9.0.jar" size="405733" download="eager" />
+    <jar href="lib\okio-1.13.0.jar" size="81811" download="eager" />
+    <jar href="lib\picasso-2.5.2.jar" size="120459" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="weather.Main"  name="Weather" />
+  <update check="always"/>
+</jnlp>

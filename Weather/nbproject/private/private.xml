@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/GUI/Weather.fxml</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/Main.java</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/GUI/css/listtree.css</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/GUI/FXMLDocument.fxml</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/GUI/ListTree.fxml</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/BUS/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/BUS/WeatherController.java</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/BUS/ListTreeController.java</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/BUS/APIWeather.java</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/BUS/CayBUS.java</file>
+            <file>file:/C:/Users/Vi/Desktop/TuoiTieu/Weather/src/weather/DB/ConnectionDB.java</file>
+        </group>
+    </open-files>
+</project-private>

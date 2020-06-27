@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="419.0" prefWidth="683.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView fx:id="TableWeather" layoutX="10.0" layoutY="10.0" prefHeight="392.0" prefWidth="653.0">
+         <columns>
+            <TableColumn fx:id="date" prefWidth="95.19999694824219" text="Date" />
+            <TableColumn fx:id="temperature" prefWidth="121.5999755859375" text="Temperature" />
+            <TableColumn fx:id="humidity" prefWidth="121.60003662109375" text="Humidity" />
+            <TableColumn fx:id="rainfall" prefWidth="136.7999267578125" text="Rainfall" />
+            <TableColumn fx:id="image" prefWidth="176.00006103515625" text="Image" />
+         </columns>
+      </TableView>
+   </children>
+</AnchorPane>

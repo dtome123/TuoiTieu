@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<BorderPane fx:id="bp" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="700" minWidth="1000" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="weather.BUS.FXMLDocumentController">
+   <left>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="btnhome" mnemonicParsing="false" onAction="#changehome" prefHeight="100.0" prefWidth="100.0" text="Home" />
+            <Button fx:id="btntreelist" mnemonicParsing="false" onAction="#changetree" prefHeight="100.0" prefWidth="100.0" text="Tress's list" />
+            <Button fx:id="btnplans" mnemonicParsing="false" onAction="#changeplans" prefHeight="100.0" prefWidth="100.0" text="Plans" />
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
